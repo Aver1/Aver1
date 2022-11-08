@@ -27,3 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aver1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aver1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мои+контакты:)](https://git.io/typing-svg)
+
+<a href="https://vk.com/mehooon"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="VK" height="64"></a>
+<a href="https://t.me/Aver1"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="TG" height="64"></a>
